@@ -1,1 +1,1 @@
-# FamilyFriendlyWordsList
+# Family Friendly Content Creators Handbook
