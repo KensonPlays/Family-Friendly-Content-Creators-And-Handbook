@@ -1,7 +1,7 @@
 # Morjaxs YouTube Creator Handbook
 
-###Download here (Pay What You Want):
-(Gumroad Link)[https://gumroad.com/l/Vdwf]
+### Download here (Pay What You Want):
+[Gumroad Link](https://gumroad.com/l/Vdwf)
 
 Very useful resource. We highly recommend reading it!
 
