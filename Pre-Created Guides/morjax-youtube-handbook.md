@@ -1,6 +1,4 @@
-------------------------------------
-- Morjaxs YouTube Creator Handbook -
-------------------------------------
+# Morjaxs YouTube Creator Handbook
 
 --- Download here: ---
 (Pay What You Want)
