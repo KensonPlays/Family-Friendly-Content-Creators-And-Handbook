@@ -3,8 +3,8 @@
 
 ## Other Folders In Project
 [Word Filters](http://pgcreators.kensonplays.com/Family-Friendly-Content-Creators-And-Handbook/WordFilters/)  
-[Explicit Songs](http://pgcreators.kensonplays.com/Family-Friendly-Content-Creators-And-Handbook/ExplicitSongs/)
-[Creators List](http://pgcreators.kensonplays.com/Family-Friendly-Content-Creators-And-Handbook/CreatorsList/)
+[Explicit Songs](http://pgcreators.kensonplays.com/Family-Friendly-Content-Creators-And-Handbook/ExplicitSongs/)  
+[Creators List](http://pgcreators.kensonplays.com/Family-Friendly-Content-Creators-And-Handbook/CreatorsList/)  
 
 
 ## This GitHub project is a collection of resources for all Family Friendly content creators.
