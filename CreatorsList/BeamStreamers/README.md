@@ -15,7 +15,7 @@
 [LordOfTheUndead](https://beam.pro/LordOfTheUndead)  
 [Bardi98](https://beam.pro/Bardi98)  
 [IronPine](https://beam.pro/ironpine)  
-[GingerAle]((https://beam.pro/GingerAle)  
+[GingerAle](https://beam.pro/GingerAle)  
 [Effect2o](https://beam.pro/Effect2o)  
 [DeniseChip](https://beam.pro/DeniseChip)  
 [Sir_Oswyn](https://beam.pro/Sir_Oswyn)
